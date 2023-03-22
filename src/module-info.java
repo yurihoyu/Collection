@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author alley
- *
- */
-module Collection {
-}
