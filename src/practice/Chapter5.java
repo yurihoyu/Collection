@@ -24,7 +24,6 @@ public class Chapter5 {
 		Collections.sort(tasks, new DateComparator());
 
 
-		System.out.println("--- Sorted ---");
 
 		for (Task ts : tasks) {
 			  System.out.println(ts.getDate() + ts.getContents());
